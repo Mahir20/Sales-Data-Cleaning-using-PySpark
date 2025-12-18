@@ -4,12 +4,8 @@ This project demonstrates ETL pipeline and analytics workflow using PySpark on D
 
 The project uses structured schemas, Spark SQL functions, and aggregations to process and analyze data efficiently.
 
-Technologies Used
-
-Apache Spark (PySpark)
-
-Databricks Notebook
-
-Spark SQL Functions
-
-CSV Data Sources
+Technologies Used:
+-Apache Spark (PySpark)
+-Databricks Notebook
+-Spark SQL Functions
+-CSV Data Sources
