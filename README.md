@@ -6,6 +6,6 @@ The project uses structured schemas, Spark SQL functions, and aggregations to pr
 
 📌 Technologies Used:
 Apache Spark (PySpark),
-Databricks Notebook,
-Spark SQL Functions,
-CSV Data Sources
+ Databricks Notebook,
+ Spark SQL Functions,
+ CSV Data Sources
